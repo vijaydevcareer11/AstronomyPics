@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="picture_of_day_text">Picture of day</string>
+    <string name="description_text">Description</string>
+    <string name="generic_error_text">Something went wrong !!</string>
+    <string name="open_link_title">Open Link !!</string>
+</resources>
